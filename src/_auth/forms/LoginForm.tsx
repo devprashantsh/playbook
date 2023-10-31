@@ -1,7 +1,7 @@
 
 const LoginForm = () => {
   return (
-    <div>LoginForm</div>
+    <main>LoginForm</main>
   )
 }
 
